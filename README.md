@@ -1,2 +1,1 @@
-# WSS
-websocket server
+该程序是java实现了 websocket的服务端
